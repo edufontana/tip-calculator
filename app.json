@@ -1,0 +1,12 @@
+{
+  "name": "tipcalculator",
+  "displayName": "tip-calculator",
+  "expo": {
+    "name": "tip-calculator",
+    "slug": "tip-calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
